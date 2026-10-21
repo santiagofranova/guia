@@ -32,7 +32,7 @@ Antes de iniciar la creación de la máquina virtual, debes recopilar los siguie
 * Un ordenador anfitrión con al menos **8 GB de memoria RAM** (se asignarán 4 GB a la máquina virtual).
 * Al menos **25 GB de espacio libre** en disco duro.
 * El software de virtualización instalado, como [Oracle VM VirtualBox](https://www.virtualbox.org/).
-* La imagen oficial en formato ISO de Ubuntu descargada desde su [sitio web oficial](https://ubuntu.com/download/desktop).
+* La imagen oficial en formato ISO de Ubuntu descargada desde su [**sitio web oficial**](https://ubuntu.com/download/desktop).
 
 A continuación se muestra una tabla comparativa con los recursos recomendados según el uso que se le vaya a dar a la máquina virtual:
 
