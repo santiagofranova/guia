@@ -82,6 +82,8 @@ Una vez creada la estructura base, debemos asegurarnos de que el disco virtual t
 
 Esto sincronizará los repositorios e instalará las últimas versiones de los paquetes disponibles.
 
+> **Consejo de rendimiento:** Si la ventana de Ubuntu se ve muy pequeña y no se adapta al tamaño de tu monitor, dirígete al menú superior de VirtualBox, selecciona **Dispositivos > Insertar imagen de CD de las «Guest Additions»**. Esto instalará los controladores de vídeo necesarios para la pantalla completa.
+
 ---
 
 ## 4. Comprobación de red
