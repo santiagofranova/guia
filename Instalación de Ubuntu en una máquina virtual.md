@@ -76,6 +76,11 @@ Una vez creada la estructura base, debemos asegurarnos de que el disco virtual t
 3. Sigue las instrucciones del instalador gráfico en pantalla: selecciona el idioma, la distribución del teclado y el tipo de instalación (*Instalación normal*).
 4. Elige la opción de borrar disco e instalar Ubuntu.
 5. Configurar y crear usuario y contraseña con el comando interno o el formulario gráfico.
+6. Una vez finalizada la instalación de Ubuntu, es una buena práctica de seguridad y estabilidad actualizar el sistema operativo. Abre la terminal y ejecuta:
+
+`sudo apt update && sudo apt upgrade -y`
+
+Esto sincronizará los repositorios e instalará las últimas versiones de los paquetes disponibles.
 
 ---
 
