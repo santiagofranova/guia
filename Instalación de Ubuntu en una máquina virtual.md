@@ -127,3 +127,8 @@ ping -c 4 8.8.8.8
 Esta documentación se ha elaborado utilizando Markdown.
 El control de versiones se realiza mediante Git
 y el repositorio remoto se encuentra alojado en GitHub.
+
+## Próximas mejoras.
+* Introducción de mas imagenes de guia
+* Explicación de como instalar paquetes importantes
+* Pequeña guia de introduccion a bash
