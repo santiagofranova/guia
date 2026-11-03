@@ -5,15 +5,19 @@ Esta guía técnica explica paso a paso cómo instalar **Ubuntu** en una máquin
 ---
 
 ## Índice
-* [1. Introducción](#1-introducción)
-* [2. Requisitos previos](#2-requisitos-previos)
-* [3. Procedimiento de instalación](#3-procedimiento-de-instalación)
-  * [3.1 Creación de la máquina virtual](#31-creación-de-la-máquina-virtual)
-  * [3.2 Configuración del almacenamiento y arranque](#32-configuración-del-almacenamiento-y-arranque)
-  * [3.3 Instalación del sistema operativo](#33-instalación-del-sistema-operativo)
-* [4. Comprobación y red](#4-comprobación-y-red)
-* [5. Resolución de problemas comunes](#5-resolución-de-problemas-comunes)
-* [6. Referencias](#6-referencias)
+- [Guía de Instalación de Ubuntu en una Máquina Virtual](#guía-de-instalación-de-ubuntu-en-una-máquina-virtual)
+  - [Índice](#índice)
+  - [1. Introducción](#1-introducción)
+  - [2. Requisitos previos](#2-requisitos-previos)
+  - [3. Procedimiento de instalación](#3-procedimiento-de-instalación)
+    - [3.1 Creación de la máquina virtual](#31-creación-de-la-máquina-virtual)
+    - [3.2 Configuración del almacenamiento y arranque](#32-configuración-del-almacenamiento-y-arranque)
+    - [3.3 Instalación del sistema operativo](#33-instalación-del-sistema-operativo)
+  - [4. Comprobación de red](#4-comprobación-de-red)
+  - [](#)
+  - [5. Resolución de problemas comunes](#5-resolución-de-problemas-comunes)
+  - [6. Referencias](#6-referencias)
+  - [Información del proyecto](#información-del-proyecto)
 
 ---
 
@@ -118,3 +122,8 @@ ping -c 4 8.8.8.8
 * [Documentación oficial de Ubuntu](https://help.ubuntu.com/)
 * [Manual de usuario de Oracle VM VirtualBox](https://www.virtualbox.org/manual/)
 * Repositorios de software y paquetes de GNU/Linux.
+
+## Información del proyecto
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git
+y el repositorio remoto se encuentra alojado en GitHub.
