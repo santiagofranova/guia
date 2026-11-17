@@ -18,6 +18,8 @@ Esta guía técnica explica paso a paso cómo instalar **Ubuntu** en una máquin
   - [5. Resolución de problemas comunes](#5-resolución-de-problemas-comunes)
   - [6. Referencias](#6-referencias)
   - [Información del proyecto](#información-del-proyecto)
+  - [Próximas mejoras.](#próximas-mejoras)
+  - [Recomendaciones de seguridad](#recomendaciones-de-seguridad)
 
 ---
 
@@ -132,3 +134,8 @@ y el repositorio remoto se encuentra alojado en GitHub.
 * Introducción de mas imagenes de guia
 * Explicación de como instalar paquetes importantes
 * Pequeña guia de introduccion a bash
+
+## Recomendaciones de seguridad
+1. **Contraseñas robustas:** Utiliza siempre contraseñas seguras y diferentes para el usuario administrador (root) y los usuarios estándar.
+2. **Actualizaciones periódicas:** Ejecuta regularmente comandos de actualización del sistema para aplicar parches de seguridad.
+3. **Cortafuegos activo:** Configura y habilita un firewall (como UFW en Ubuntu) para bloquear conexiones entrantes no deseadas.
